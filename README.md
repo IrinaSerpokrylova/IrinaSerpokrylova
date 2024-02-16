@@ -27,11 +27,9 @@
 
 ## 📫Как со мной связаться:
 
- <div id="badges"
-  <a href="https://t.me/Serpokrylova" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1280px-Telegram_2019_Logo.svg.png" title="telegram" alt="telegram" width="40" height="40"/>
-</a>
-</div>
+<a href="https://t.me/Serpokrylova" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/6badd5effe52bef2c64557fa8883104fd1fd80065c2feda39fd2b9ac4a858bae/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="40" height="40" alt="telegram group" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
+    </a>
 
 ### 📃Статистика GitHub
 
@@ -47,6 +45,8 @@
 - Flexbox,
 - BASH,
 - ООП.
+
+
 
 <div id="badges"
   <a href="https://t.me/Serpokrylova" target="_blank">
