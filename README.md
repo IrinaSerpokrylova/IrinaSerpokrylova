@@ -28,7 +28,7 @@
 
 <div id="badges"
   <a href="https://t.me/Serpokrylova" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646" title="telegram" alt="telegram" width="40" height="40"/>
+  <img src="https://iconscout.com/free-icon/telegram-2690369" title="telegram" alt="telegram" width="40" height="40"/>
 </a>
 </div>
 
