@@ -18,7 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <a href="https://www.github.com/IrinaSerpokrylova" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/IrinaSerpokrylova?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
@@ -31,9 +32,11 @@
 
 📱 https://t.me/Serpokrylova
 
-### Статистика
+### Статистика GitHub
 
 <a href="https://github.com/IrinaSerpokrylova" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaSerpokrylova&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/IrinaSerpokrylova"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IrinaSerpokrylova&stroke=0891b2&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0891b2&currStreakLabel=3382ed&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 <!--
 - TypeScript,
