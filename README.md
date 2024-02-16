@@ -1,16 +1,33 @@
-### Hi there 👋
+# Привет! Меня зовут Ирина и я - Fronterd-разработчик 😎
 
-<!--
-**IrinaSerpokrylova/IrinaSerpokrylova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Немного о себе:
 
-Here are some ideas to get you started:
+- 🌌 Решила изменить свою жизнь и строю свое лучшее будущее;
+- 🎓 Учусь быть хорошим специалистом во фронденде;
+- ✌ Сейчас работаю над разработкой многостраничного сайта для компании, работающей со "сложными детьми".
+- ✨ Хочу помогать людям реализовывать свои идеи в монетизитуемые сайты.
+- 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Как со мной связаться:
+
+https://t.me/Serpokrylova
+
+## Мои навыки:
+
+- TypeScript,
+- JavaScript,
+- React,
+- Redux,
+- React Router,
+- DOM,
+- HTML,
+- CSS,
+- Grid Layout,
+- Webpack,
+- Flexbox,
+- Git,
+- BASH,
+- ООП.
+
+
+(^˵◕ω◕˵^)
